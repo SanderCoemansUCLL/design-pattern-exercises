@@ -1,8 +1,4 @@
-package com.example.exercises;
-
-import com.example.exercises.stockmarket.ConcreteStock;
-import com.example.exercises.stockmarket.IndividualInvestor;
-import com.example.exercises.stockmarket.InstitutionalInvestor;
+package com.example.exercises.stockmarket;
 
 public class Main {
     public static void main(String[] args) {
